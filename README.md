@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klemen0
 - 👀 I’m interested in scientific computing
-- 🌱 I’m currently working on my final year project at the University of Warwick
+- 🌱 I’m currently working on my final year project for a Physics BSc at the University of Warwick
 
 
 <!---
