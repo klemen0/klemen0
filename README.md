@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klemen0
-- 👀 I’m interested in scientific computing, lattice QCD adn Cosmolgoy
-- 🌱 I’m currently working on my semester project at ETH Zurich
+- 👀 I’m interested in scientific computing, lattice QCD and Cosmology
+- 🌱 I’m currently working on my MSc project at ETH Zurich
 
 
 <!---
